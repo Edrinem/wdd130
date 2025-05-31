@@ -17,12 +17,15 @@ main img{
     height: auto;
 }
 
-p{padding: 0;}
+p{
+    padding: 0;
+}
 
 footer{
-    margin-top: 20px;
+    margin-top: 40px;
     border-top: 1px solid black;
     text-align: center;
+    padding-top: 10px;
 }
 main{
     max-width: 840px;
